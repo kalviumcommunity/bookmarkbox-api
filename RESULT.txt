@@ -1,0 +1,3 @@
+BookmarkBox completion status
+
+Implemented the requested auth and bookmark repository logic. Runtime verification was not performed in this environment because no PostgreSQL database or running application was available. Before submission, configure DATABASE_URL, run the Prisma migration and application, then verify registration, login/token issuance, bookmark creation, and bookmark listing.
